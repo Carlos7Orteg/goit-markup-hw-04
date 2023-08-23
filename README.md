@@ -1,4 +1,4 @@
-## goit-markup-hw-04 Tarea:4
+## https://carlos7orteg.github.io/goit-markup-hw-04/ Tarea:4
 
 Items:
 
@@ -10,10 +10,11 @@ Items:
 - Para optimizar el sprite SVG generado, use el servicio -------.
 - Configure las GitHub Pages y agregue un enlace a la página en vivo en el encabezado del
   repositorio de GitHub.
-  <---------------------------------------------------------------------------------------------------------------->
+  <------------------------------------------------------------------------------------------------------------->
+
   Los criterios de aceptación: «A1» En la raíz del proyecto, hay una carpeta llamada images con
   imágenes. «A2» Todas las imágenes vectoriales (iconos) se recopilan en el sprite SVG icons.svg,
-  que s encuentra en la carpeta de imágenes. images. «A3» Todas las imágenes vectoriales están
+  que se encuentra en la carpeta de imágenes. images. «A3» Todas las imágenes vectoriales están
   optimizadas. «A4» En la raíz del proyecto, hay una carpeta llamada css con archivos de estilos.
   «A5» Todos los estilos están contenidos en un archivo styles.css,que se encuentra en la carpeta
   .css. «A6» No hay letras mayúsculas, espacios y transliteración en los nombres de los archivos,
